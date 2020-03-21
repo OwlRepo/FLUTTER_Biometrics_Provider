@@ -1,6 +1,6 @@
 # biometrics
 
-A new Flutter project.
+This project provides a Biometric Authentication base on what is available on your mobile device.
 
 ## Getting Started
 
