@@ -1,4 +1,4 @@
-# biometrics
+# Biometrics
 
 This project provides a Biometric Authentication base on what is available on your mobile device.
 
